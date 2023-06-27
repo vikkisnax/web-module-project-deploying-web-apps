@@ -1,0 +1,40 @@
+/* .item {
+    background-color: #ffb6c1;
+    width: 45%;
+    text-align: left;
+    margin: 4px 0;
+    padding-left: 8px;
+    cursor: pointer;
+  }
+.item.completed {
+    background-color: #FFE4E1;
+    text-decoration: line-through;
+} */
+
+/* FOR TOGGLING / CROSSING OUT TASK */
+.completed {
+    text-decoration: line-through;
+  }
+  
+  /* BUTTON DESIGNs */
+  .clear-btn {
+    background-color: #ffb6c1;
+    border: 1px solid rgb(184, 124, 134);
+    color: rgb(99, 64, 70);
+    font-size: 16px;
+    padding: 4px 14px;
+  }
+  
+  .add-btn {
+    background-color: #ffb6c1;
+    border: 1px solid rgb(184, 124, 134);
+    color: rgb(99, 64, 70);
+    font-size: 16px;
+    padding: 1px 14px;
+  }
+  
+  /* INPUT */
+  /* .form-task {
+    display:flex;
+  
+  } */
